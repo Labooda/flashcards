@@ -3,7 +3,7 @@
   margin: 0;
 }
 body {
-  background: url("https://raw.githubusercontent.com/Labooda/flashcards/ae797554eff463342cdc839137952a1d32bbcb2f/World_map_without_Antarctica.svg") no-repeat center/cover;
+  background: url("./World_map_without_Antarctica.svg") no-repeat center/cover;
   height: 100vh;
 }
 
